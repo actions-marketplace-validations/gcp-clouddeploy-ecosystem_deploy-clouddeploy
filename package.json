@@ -33,7 +33,7 @@
   "homepage": "https://github.com/gcp-cloud-deploy-ecosystem/deploy-clouddeploy#readme",
   "dependencies": {
     "@actions/core": "^1.5.0",
-    "@actions/exec": "^1.1.0",
+    "@actions/exec": "^1.1.1",
     "@actions/http-client": "^1.0.11",
     "@actions/tool-cache": "^1.7.1",
     "@lifeomic/attempt": "^3.0.0",
