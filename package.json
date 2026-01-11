@@ -44,7 +44,7 @@
     "googleapis": "^85.0.0",
     "tmp": "^0.2.1",
     "typed-rest-client": "^1.8.5",
-    "yaml": "^1.10.0"
+    "yaml": "^2.8.2"
   },
   "devDependencies": {
     "@types/chai": "^4.2.21",
