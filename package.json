@@ -36,7 +36,7 @@
     "@actions/exec": "^1.1.0",
     "@actions/http-client": "^1.0.11",
     "@actions/tool-cache": "^1.7.1",
-    "@lifeomic/attempt": "^3.0.0",
+    "@lifeomic/attempt": "^3.1.0",
     "@types/tmp": "^0.2.1",
     "core-util-is": "^1.0.3",
     "fs": "0.0.2",
